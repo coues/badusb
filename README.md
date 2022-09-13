@@ -1,0 +1,8 @@
+# badusb
+教程基于atmel芯片ATTINY85 自带usb可刷写功能，用arduino的IDE烧录渗透代码实现metasploit反弹shell，
+Cobalt Strike快速上线。
+
+第一章环境安装配置
+第二章hello world程序
+第三章metasploit反弹shell
+第四章Cobalt Strike反弹shell
